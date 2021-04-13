@@ -1,0 +1,2 @@
+# WebpackAssembly
+My webpack assembly
