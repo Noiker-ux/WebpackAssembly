@@ -5,7 +5,7 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
-const ImageminPlugin = require("imagemin-webpack");
+const ImageminPlugin = require("imagemin-webpack-plugin").default;
 
 //  ! Basic constants
 const mode =
