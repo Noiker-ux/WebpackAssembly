@@ -6,7 +6,7 @@ const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 const ImageminPlugin = require("imagemin-webpack-plugin").default;
-
+// 123
 //  ! Basic constants
 const mode =
 	process.env.NODE_ENV === "production" ? "production" : "development";
